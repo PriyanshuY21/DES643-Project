@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "DES643-Assignment.sln"
+    "dotnet.defaultSolution": "DES643-Project.sln"
 }
