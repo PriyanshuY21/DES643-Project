@@ -30,7 +30,7 @@ public class toggleGameOjects : MonoBehaviour
         }
     }
 
-    void ToggleObjects()
+    public void ToggleObjects()
     {
         // Iterate through each game object in the array
         foreach (GameObject obj in objectsToToggle)
