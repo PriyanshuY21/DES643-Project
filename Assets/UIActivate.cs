@@ -22,7 +22,7 @@ public class UIswitcher : MonoBehaviour
 
     IEnumerator WaitForSec()
     {
-        yield return new WaitForSeconds(4);
+        yield return new WaitForSeconds(3);
         Destroy(UI);
     }
 }
