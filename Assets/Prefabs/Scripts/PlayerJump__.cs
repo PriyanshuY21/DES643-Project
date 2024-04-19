@@ -6,7 +6,7 @@ using UnityEngine.InputSystem;
 public class PlayerJump__ : MonoBehaviour
 {
     public InputActionReference jump;
-    public float jumpHeight = 3f;
+    public float jumpHeight = 5f;
     public CharacterController cc;
 
     [SerializeField] private LayerMask groundLayers;
